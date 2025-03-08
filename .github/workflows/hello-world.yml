@@ -1,8 +1,8 @@
 name: hello-world-rakesh
 on: push
 jobs:
-  my-jobs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: print-rakesh
-      run: echo "Hello World - rakesh"
+ my-job:
+   runs-on: ubuntu-latest
+   steps:
+     - name: print-rakesh
+       run: echo "Hello World - rakesh"
