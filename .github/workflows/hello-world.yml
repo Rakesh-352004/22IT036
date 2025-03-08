@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print-rakesh
-      run: echo "Hello World - Rakesh"
+      run: echo "Hello World - rakesh"
