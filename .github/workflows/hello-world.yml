@@ -4,5 +4,5 @@ jobs:
   my-jobs:
     runs-on: ubuntu-latest
     steps:
-      - name: rakesh
+      - name: print-rakesh
       run: echo "Hello World - Rakesh"
